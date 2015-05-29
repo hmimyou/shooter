@@ -16,7 +16,7 @@ To build:
 	
 To deploy, start your server and copy the war to deploy dir: 
 
-	cp ./dist/shooter-$VERSION.war $CATALINA_HOME/webapps
+	cp ./dist/shooter-$VERSION.war $CATALINA_HOME/webapps/shooter.war
 	
 Make query:
 

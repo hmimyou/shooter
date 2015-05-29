@@ -20,5 +20,5 @@ To deploy, start your server and copy the war to deploy dir:
 	
 Make query:
 
-	curl http://localhost:8080/shooter/api/myresource
-	
+	curl -i http://localhost:8080/shooter/api/myresource/
+	curl -i http://localhost:8080/shooter/api/myresource/forbid
